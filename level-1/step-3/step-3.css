@@ -12,13 +12,22 @@
 
 .content-container {
   width: auto;
-  height: 400px;
+  height: 100%;
 }
 
 .content {
   background: #D8D8D8;
   padding: 20px;
+  padding-top: 50px;
   width: auto;
   height: 400px;
   text-align: center;
+}
+
+
+p{
+
+  font-family: sans-serif;
+
+
 }
